@@ -1,0 +1,24 @@
+{
+  "name": "isworking",
+  "version": "1.0.0",
+  "description": "isWorking function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js",
+    "lint:fix": "eslint --fix *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioi88/isWorking.git"
+  },
+  "author": "Tony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonioi88/isWorking/issues"
+  },
+  "homepage": "https://github.com/antonioi88/isWorking#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
