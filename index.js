@@ -1,5 +1,5 @@
-function isWorking(input){
-    return input === 'Working';
-} 
+function isWorking (input) {
+  return input === 'Working'
+}
 
-module.exports = isWorking;
+module.exports = isWorking
